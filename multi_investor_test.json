@@ -1,0 +1,145 @@
+{
+  "test_info": {
+    "test_date": "2025-08-05T23:34:57.809546",
+    "purpose": "Multi-investor extraction verification",
+    "tested_investors": 3,
+    "successful_extractions": 3
+  },
+  "investors": [
+    {
+      "url": "https://mercury.com/investor-database/abbie-strabala",
+      "name": "Abbie Strabala",
+      "industries": [
+        "Climate/Sustainability",
+        "Consumer",
+        "Enterprise",
+        "Health and Wellness"
+      ],
+      "stages": [
+        "Seed"
+      ],
+      "check_range": "$500K-$1M",
+      "bio": "Abbie is currently an associate at True Wealth, investing in early-stage women-led companies. She brings deep industry knowledge about impact investing, women’s health, and LGBTQ+ rights from prior roles in venture capital and philanthropy. Prior to joining True Wealth, she was a founding team member of the largest US-based impact fund investing in women’s health at RH Capital working in both operations and investment roles. As a representative of the next generation of female investors, Abbie takes pride in being actively involved in the community and creating opportunities to support others breaking into the space. She is based in San Francisco, while the GPs of the firm are based in Austin, TX.",
+      "geography": [
+        "US/Canada"
+      ],
+      "contacts": {
+        "email": "abbie@truewealthvc.com",
+        "linkedin": "",
+        "twitter": "",
+        "website": "https://truewealthvc.com/"
+      },
+      "contact_info": {
+        "Email": "abbie@truewealthvc.com",
+        "Apply directly": "https://truewealthvc.com/share-your-big-idea/",
+        "Website": "https://truewealthvc.com/",
+        "Investor Connect": "/raise/investor-connect"
+      },
+      "scraped_date": "2025-08-05T23:34:45.836282",
+      "status": "success"
+    },
+    {
+      "url": "https://mercury.com/investor-database/adam-gries",
+      "name": "Adam Gries",
+      "industries": [
+        "Consumer",
+        "Crypto/Blockchain",
+        "Deep Tech/Hard Science",
+        "Health and Wellness",
+        "Life Sciences"
+      ],
+      "stages": [
+        "Pre-seed",
+        "Seed",
+        "Series A"
+      ],
+      "check_range": "$50K",
+      "bio": "I'm a tech entrepreneur and angel investor on a mission to end aging. In college I focused on neuroscience and did some MRI-based research at Mass General Hospital. I've also been interested in aging and longevity since first hearing the concept of Longevity Escape Velocity in 2007. Since graduating I built and sold 4 companies, reaching over 80 million users. I'm a self-taught software engineer and highly operational CEO, largely with a product inclination, at the 4 companies. I love the intersection of behavior and tech. In the past 18 months, anguished by the unnecessary deaths and institutional incompetence in COVID, I've concluded that \"nobody is coming to the rescue\" and that I must take more direct action in the aging space. While great people already work to end aging, we need at least 3 orders of magnitude more resources to see major results in 20-40 years. While aging is my core focus I also have invested opportunistically.",
+      "geography": [
+        "Global"
+      ],
+      "contacts": {
+        "email": "",
+        "linkedin": "",
+        "twitter": "",
+        "website": ""
+      },
+      "contact_info": {
+        "Investor Connect": "/raise/investor-connect"
+      },
+      "scraped_date": "2025-08-05T23:34:50.799953",
+      "status": "success"
+    },
+    {
+      "url": "https://mercury.com/investor-database/allen-gannett",
+      "name": "Allen  Gannett",
+      "industries": [
+        "AI/ML",
+        "Analytics",
+        "API",
+        "AR/VR",
+        "Automation",
+        "Biotech",
+        "Climate/Sustainability",
+        "Cloud",
+        "Consumer",
+        "Creator Economy",
+        "Crypto/Blockchain",
+        "Deep Tech/Hard Science",
+        "Developer Tools",
+        "DTC",
+        "Ecommerce",
+        "E-Commerce",
+        "Education",
+        "Enterprise",
+        "Entertainment",
+        "Fintech",
+        "Food and Beverage",
+        "Future of Work",
+        "Gaming",
+        "Government Technology",
+        "Hardware",
+        "Health and Wellness",
+        "Healthcare/Medtech",
+        "Industrial",
+        "InsureTech",
+        "InsurTech",
+        "Internet and Mobile",
+        "IoT",
+        "Life Sciences",
+        "Marketplace",
+        "Media",
+        "Productivity",
+        "Proptech/Real Estate",
+        "Prop Tech/Real Estate",
+        "Robotics",
+        "SaaS",
+        "Social",
+        "Space",
+        "Supply Chain/Logistics",
+        "Transportation",
+        "Travel/Hospitality"
+      ],
+      "stages": [
+        "Pre-seed",
+        "Seed"
+      ],
+      "check_range": "$150K",
+      "bio": "Founded TrackMaven, which in October 2018 merged with Skyword to form the #1 content marketing platform. Previously, co-founded Acceleprise, a leading SaaS startup accelerator. Author of The Creative Curve, a book about developing the right idea at the right time. The Creative Curve is available in nine languages and has been featured on CNBC, Inc, Business Insider, and more.",
+      "geography": [
+        "Global"
+      ],
+      "contacts": {
+        "email": "",
+        "linkedin": "",
+        "twitter": "",
+        "website": ""
+      },
+      "contact_info": {
+        "Investor Connect": "/raise/investor-connect"
+      },
+      "scraped_date": "2025-08-05T23:34:54.479519",
+      "status": "success"
+    }
+  ]
+}
